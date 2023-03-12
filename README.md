@@ -3,9 +3,16 @@ I'll be learning how to change a computer's volume using Gesture Control in this
 A computer vision project.
 Initially, I developed a handtracking module that uses mediapipe and the opencv library to track the landmarks on my hands.
 Afterward, I import this module in gesture controlled volume to make it easy to track hand for volume control, then used pycaw library, which is Python Core Audio Windows Library, working for both Python2 and Python3.
+
+
+
+
+
 ![handtracking](https://user-images.githubusercontent.com/88935432/224565768-727c59b9-3e68-4d43-b657-eeffd1263d13.png)
 
 
+
+Overall, I will try to improve this project more and make it better by more stable gesture, measuring distance between index finger and thumb for volume increase
 References###
 https://www.section.io/engineering-education/creating-a-hand-gesture-volume-controller-using-python-and-pycharm/
 https://ijisrt.com/assets/upload/files/IJISRT22MAY250_(1).pdf
